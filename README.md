@@ -1,1 +1,1 @@
-# Practica Git
+# Práctica Git - Equipo A
