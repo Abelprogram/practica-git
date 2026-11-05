@@ -1,1 +1,1 @@
-# Practica Git
+# Práctica Git - Proyecto personal
