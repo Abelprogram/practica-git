@@ -1,1 +1,2 @@
 # Agregar notas
+Aprendiendo Git.
